@@ -1,0 +1,6 @@
+export { Home } from './Home'
+export { Contact } from './Contact'
+export { About } from './About'
+export { PageNotFound } from './PageNotFound'
+export { Blog } from './Blog'
+export { BlogPost } from './BlogPost'
